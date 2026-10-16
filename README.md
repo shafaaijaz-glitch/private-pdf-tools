@@ -26,11 +26,11 @@ You can also paste a PDF or screenshot with <kbd>Ctrl</kbd>/<kbd>Cmd</kbd>+<kbd>
 
 ## Use it
 
-- **Online:** open the GitHub Pages site for this repository (see the *About* panel on the right).
+- **Online:** <https://shafaaijaz-glitch.github.io/private-pdf-tools/>
 - **Locally:** it's a static site with no build step and no dependencies to install.
 
 ```bash
-git clone https://github.com/<your-username>/private-pdf-tools.git
+git clone https://github.com/shafaaijaz-glitch/private-pdf-tools.git
 cd private-pdf-tools
 python3 -m http.server 8000
 ```
